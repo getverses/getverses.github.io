@@ -10,6 +10,6 @@
 </head>
 <body>
   <h1>testing..</h1>
-  <script></script>
+  <script src="script.js"></script>
 </body>
 </html>
