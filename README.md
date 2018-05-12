@@ -10,5 +10,6 @@
 </head>
 <body>
   <h1>testing..</h1>
+  <script></script>
 </body>
 </html>
